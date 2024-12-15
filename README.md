@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mythrayi-M-R
-- 👀 I’m interested in autonomous driving, robotics, IOT and embedded systems
-- 🌱 I’m currently learning data analysis and machine learning
+- 👀 I’m interested in design, robotics, and IoT.
+- 🌱 I’m currently learning data analysis and machine learning.
 - 😄 Pronouns: she/her
 
 <!---
